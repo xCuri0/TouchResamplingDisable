@@ -1,7 +1,6 @@
-id=MMT-Ex
-name=Magisk Module Template Extended
-version=v1.5
-versionCode=6
-author=Zackptg5
+id=TouchResamplingDisable
+name=Touch Resampling Disable
+version=v1.0
+versionCode=0
+author=xCuri0
 description=
-support=https://forum.xda-developers.com/apps/magisk/MMT-Extended
